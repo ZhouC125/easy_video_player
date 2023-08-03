@@ -1,5 +1,5 @@
 name: easy_video_player
-description: A new Flutter package project.
+description: simple video player, with the core using GSYVideoPlayer.
 version: 0.0.1
 homepage:
 
